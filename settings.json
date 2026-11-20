@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ORVYTHMC",
+    "username": "SMOOTH AFK",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to SoloPlayz!",
-        "Want Cheap Premium Server? https://discord.gg/VRMUnDkf95"
+        "SMOOTH ALWAYS ON TOP",
+        "Subscribe to Smooth AWM!",
       ]
     },
     "chat-log": true,
